@@ -8,4 +8,4 @@ To integrate Netmera into your Xcode project using Carthage, specify it in your 
 github "mutualmobile/MMWormhole" ~> 2.0.0
 github "AFNetworking/AFNetworking" >=2.0
 github "kishikawakatsumi/UICKeyChainStore" ~>2.0
-github "ccgus/fmdb"```
+github "ccgus/fmdb"
